@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on [Ant Group](https://www.antgroup.com/)
 - 📫 How to reach me: xiangpingjiang1998@gmail.com
 
-[![Pingjiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangpingjiang)](https://github.com/anuraghazra/github-readme-stats)
+[![cola's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangpingjiang&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xiangpingjiang/xiangpingjiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
